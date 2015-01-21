@@ -1,5 +1,6 @@
 # receive UDP measurements from Arbiter 1133A
 # store them in CSV files
+# press Ctrl-C to exit
 # Nazarovsky Alexander, 2014-2015
 import signal
 import socket
